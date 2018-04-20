@@ -1,0 +1,4 @@
+D:\topss_src\trunk\src\DLLSource\TopssLogger\bin\Release\TopssLogger.dll
+D:\topss_src\trunk\src\DLLSource\TopssLogger\bin\Release\TopssLogger.pdb
+D:\topss_src\trunk\src\DLLSource\TopssLogger\obj\Release\TopssLogger.dll
+D:\topss_src\trunk\src\DLLSource\TopssLogger\obj\Release\TopssLogger.pdb
